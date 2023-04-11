@@ -9,8 +9,13 @@
 4. De lo contrario, se puede ejecutar el archivo udp-client.py en consola asignando los valores requeridos "python udp-client.py <IP> <filename> <numeroCliente>". 
  
   Prueba ejemplo consola:
-  python udp-client.py localhost 100MB.bin 1
-  python udp-client.py localhost 100MB.bin 2
-  python udp-client.py localhost 100MB.bin 3
-  python udp-client.py localhost 100MB.bin 4
-  python udp-client.py localhost 100MB.bin 5
+ 
+  python udp-client.py localhost 100MB.bin 1 
+ 
+  python udp-client.py localhost 100MB.bin 2 
+ 
+  python udp-client.py localhost 100MB.bin 3 
+ 
+  python udp-client.py localhost 100MB.bin 4 
+ 
+  python udp-client.py localhost 100MB.bin 5 
